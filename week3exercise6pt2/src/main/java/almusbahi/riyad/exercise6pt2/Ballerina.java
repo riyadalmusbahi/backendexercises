@@ -1,4 +1,4 @@
-package almusbahi.riyad.week3exercises;
+package almusbahi.riyad.exercise6pt2;
 
 import lombok.Data;
 import lombok.Getter;

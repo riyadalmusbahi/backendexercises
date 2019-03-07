@@ -1,0 +1,17 @@
+word: fantastic
+number: 369
+week:
+  days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+bookshop:
+  details:
+    harrypotter: 3
+    foundation: 4
+    lordofthering: 7
+sauna:
+  availableSeats: 40
+  temperature: 36
+  ballerina:
+    performance:
+      Kalista: 4
+      Vayne: 3
+      Kay'za: 5
