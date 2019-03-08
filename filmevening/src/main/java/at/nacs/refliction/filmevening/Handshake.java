@@ -1,6 +1,13 @@
 package at.nacs.refliction.filmevening;
 
-public class HandshakeMoves {
+import lombok.Data;
 
-    @
+
+@Data
+public class Handshake {
+
+    private Integer digit;
+    private String handShake;
+
+
 }
