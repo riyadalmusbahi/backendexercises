@@ -1,7 +1,22 @@
+#handshakes:
+#  moves:
+#    - digit: 2
+#      handshake: thumbs touches back
+#    - digit: 3
+#      handshake: little finger grab
+#    - digit: 5
+#      handshake: tickles over palm
+#    - digit: 6
+#      handshake: bro knock
+#    - digit: 9
+#      handshake: thousand knuckles
+#
+
 handshakes:
-  thumbs touches back: 2
-  little finger grab: 3
-  tickles over palm: 5
-  bro knock: 6
-  thousand knuckles: 9
+  moves:
+    2: thumbs touches back
+    3: little finger grab
+    5: tickles over palm
+    6: bro knock
+    9: thousand knuckles
 
