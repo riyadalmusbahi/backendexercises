@@ -1,0 +1,6 @@
+server:
+  port: 9002
+diseases:
+  index:
+    awesomeness: you have to be a bit less awesome
+    dizziness: okay what else

@@ -15,7 +15,7 @@ class MorseTest {
     @Test
     void toMorse() {
         String expected = "";
-        String actual = morse.toMorse("A");
+        String actual = morse.translateLetterToMorse("A");
         assertEquals(expected, actual);
     }
 }

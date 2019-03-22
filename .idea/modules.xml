@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cupshuffler/cupshuffler.iml" filepath="$PROJECT_DIR$/cupshuffler/cupshuffler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addmission/doctorhouse.iml" filepath="$PROJECT_DIR$/addmission/doctorhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagnoses/doctorhousediagnoses.iml" filepath="$PROJECT_DIR$/diagnoses/doctorhousediagnoses.iml" />
       <module fileurl="file://$PROJECT_DIR$/basketballTournament/ex7.iml" filepath="$PROJECT_DIR$/basketballTournament/ex7.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3exercise6pt2/exercise6pt2.iml" filepath="$PROJECT_DIR$/week3exercise6pt2/exercise6pt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/filmevening/filmevening.iml" filepath="$PROJECT_DIR$/filmevening/filmevening.iml" />
       <module fileurl="file://$PROJECT_DIR$/week4/marathon.iml" filepath="$PROJECT_DIR$/week4/marathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflectionweek4/morseencoder.iml" filepath="$PROJECT_DIR$/reflectionweek4/morseencoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trickster/trickster.iml" filepath="$PROJECT_DIR$/trickster/trickster.iml" />
     </modules>
   </component>
 </project>

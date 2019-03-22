@@ -11,7 +11,7 @@ import java.util.Map;
 
 @Configuration
 @ConfigurationProperties("morsecode")
-public class morseencoderConfiguration {
+public class MorseEncoder {
 
     @Setter
     private Map<String, String> map;

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/addmission" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basketballTournament" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cupshuffler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diagnoses" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/filmevening" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reflectionweek4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trickster" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/week3exercise6pt2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/week4" charset="UTF-8" />
   </component>
