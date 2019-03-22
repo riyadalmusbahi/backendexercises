@@ -1,15 +1,26 @@
 package at.nacs.morseencoder;
 
 
+import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
-@Component
+@Configuration
 @ConfigurationProperties("morsecode")
-public class MorseEncoder {
+public class morseencoderConfiguration {
 
-    protected Map<String, String> morsemap;
+    @Setter
+    private Map<String, String> map;
+
+    @Bean
+    Map<String, String> morsemap(){
+        return map;
+    }
+
+
 
 }
