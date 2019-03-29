@@ -1,4 +1,4 @@
-package at.nacs.doctorhousediagnoses;
+package at.nacs.doctorhousediagnoses.controller;
 
 
 import lombok.Getter;
@@ -15,5 +15,5 @@ import java.util.Map;
 @ConfigurationProperties("diseases")
 public class SymptomsLoader {
 
-    private Map<String, String> index;
+    private Map<String, String> diagnosesIndex;
 }

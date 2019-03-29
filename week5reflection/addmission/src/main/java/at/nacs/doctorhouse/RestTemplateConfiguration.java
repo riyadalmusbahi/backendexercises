@@ -1,4 +1,4 @@
-package at.nacs.doctorhouse;
+package at.nacs.doctorhouse.configuration;
 
 
 import org.springframework.context.annotation.Bean;
@@ -11,6 +11,7 @@ public class RestTemplateConfiguration {
 
     @Bean
     RestTemplate restTemplate(){
-        return new RestTemplate();
+        RestTemplate restTemplate = new RestTemplate();
+        return restTemplate;
     }
 }

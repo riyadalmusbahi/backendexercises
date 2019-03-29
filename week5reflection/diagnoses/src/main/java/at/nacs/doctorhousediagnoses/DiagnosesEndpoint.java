@@ -1,9 +1,10 @@
-package at.nacs.doctorhousediagnoses;
+package at.nacs.doctorhousediagnoses.endpoints;
 
 
+import at.nacs.doctorhousediagnoses.controller.DoctorHouse;
+import at.nacs.doctorhousediagnoses.presistance.Patient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.RestTemplate;
 
 @RestController
 @RequestMapping("/patients")
