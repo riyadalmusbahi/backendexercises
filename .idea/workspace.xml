@@ -2,14 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91908d89-73a6-46cb-bb9e-156306436228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_mongo_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/Morse.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/Morse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectionweek4/src/test/java/at/nacs/morseencoder/MorseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/reflectionweek4/src/test/java/at/nacs/morseencoder/MorseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/RestTemplateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/RestTemplateConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/addmission/src/test/java/at/nacs/doctorhouse/DoctorhouseApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/addmission/src/test/java/at/nacs/doctorhouse/DoctorhouseApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/week5reflection/diagnoses/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/week4/target/" />
     <ignored path="$PROJECT_DIR$/filmevening/target/" />
@@ -20,46 +39,120 @@
     <ignored path="$PROJECT_DIR$/cupshuffler/target/" />
     <ignored path="$PROJECT_DIR$/trickster/target/" />
     <ignored path="$PROJECT_DIR$/reflection-week5/target/" />
+    <ignored path="$PROJECT_DIR$/personaltodolist/target/" />
+    <ignored path="$PROJECT_DIR$/shop/target/" />
+    <ignored path="$PROJECT_DIR$/week5reflection/addmission/target/" />
+    <ignored path="$PROJECT_DIR$/week5reflection/diagnoses/target/" />
+    <ignored path="$PROJECT_DIR$/week5reflection/beds/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/Trickster.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#452#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/TricksterEndpoint.java">
+        <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/Patient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/AdmissionEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
-                <element signature="e#0#321#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/TricksterApplication.java">
+        <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Patient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="13" selection-end-line="13" />
+            <state relative-caret-position="195">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/Nurse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/TreatmentLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +163,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,38 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/Model/Runner.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/runners/Runner.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/runners/Winner.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/runners/RunnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/runners/WinnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/client/WinnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/client/controller/WinnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/client/controller/s.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/controller/s.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/persistance/RunnerRepository.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/controller/RunnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/controller/WinnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/controller/WinnerEndpoint.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/persistance/Runner.java" />
-        <option value="$PROJECT_DIR$/week4/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/PriceTransformer.java" />
-        <option value="$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/HandshakesTransformer.java" />
-        <option value="$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/model/HandshakesLoader.java" />
-        <option value="$PROJECT_DIR$/filmevening/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/filmevening/src/test/resources/application.yml" />
-        <option value="$PROJECT_DIR$/filmevening/src/test/java/at/nacs/refliction/filmevening/controller/HandshakesTransformerTest.java" />
-        <option value="$PROJECT_DIR$/filmevening/pom.xml" />
-        <option value="$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/Judge.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/model/Encoder.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/MorseEndpoint.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/client/model/Morse.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/client/model/Encoder.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/EncoderEndpoint.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/MorseEncoder.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/Encoder.java" />
-        <option value="$PROJECT_DIR$/reflectionweek4/src/test/resources/application.yml" />
         <option value="$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseEndpoint.java" />
         <option value="$PROJECT_DIR$/reflectionweek4/src/test/java/at/nacs/morseencoder/MorseTest.java" />
         <option value="$PROJECT_DIR$/reflectionweek4/src/main/resources/application.yml" />
@@ -134,8 +196,41 @@
         <option value="$PROJECT_DIR$/cupshuffler/src/main/java/at/nacs/cupshuffler/cup/Cup.java" />
         <option value="$PROJECT_DIR$/trickster/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/TricksterEndpoint.java" />
-        <option value="$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/Trickster.java" />
         <option value="$PROJECT_DIR$/reflection-week5/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/Trickster.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/mypersonaltodolist/Todo.java" />
+        <option value="$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ShopRepository.java" />
+        <option value="$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/Item.java" />
+        <option value="$PROJECT_DIR$/shop/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ItemConfiguration.java" />
+        <option value="$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ItemRepository.java" />
+        <option value="$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ShopRunner.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDoEndpoint.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/TodosRepository.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDosManager.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/CrosConfiguration.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDo.java" />
+        <option value="$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDosEndpoint.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/endpoints/AdmissionEndpoint.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/presistance/DoctorHouse.java" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/Patient.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/controller/SymptomsLoader.java" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/BedsEndpoint.java" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/PatientRepository.java" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/BedsManager.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Addmission.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/configuration/RestTemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/controller/DoctorHouse.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/controller/DiagnosesEndpoint.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/endpoints/DiagnosesEndpoint.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Runner.java" />
+        <option value="$PROJECT_DIR$/week5reflection/addmission/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/TreatmentLoader.java" />
+        <option value="$PROJECT_DIR$/week5reflection/diagnoses/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/Nurse.java" />
       </list>
     </option>
   </component>
@@ -146,7 +241,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="984" />
     <option name="y" value="27" />
     <option name="width" value="936" />
@@ -157,7 +252,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,10 +260,21 @@
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="addmission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="diagnoses" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,6 +297,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
@@ -199,6 +307,8 @@
       <recent name="at.nacs.morseencoder" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="at.nacs.doctorhousediagnoses" />
+      <recent name="at.nacs.doctorhouse" />
       <recent name="at.nacs.marathon" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -227,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Ex7Application">
+  <component name="RunManager" selected="Spring Boot.DoctorhousediagnosesApplication">
     <configuration name="HandshakesTransformerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="filmevening" />
       <extension name="coverage">
@@ -286,6 +396,13 @@
       <option name="PACKAGE_NAME" value="at.nacs.morseencoder" />
       <option name="MAIN_CLASS_NAME" value="at.nacs.morseencoder.MorseTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BedsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beds" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nacs.at.beds.BedsApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,6 +469,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.shop.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="todos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.todos.TodosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TricksterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="trickster" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.trickster.TricksterApplication" />
@@ -386,7 +517,10 @@
       <item itemvalue="Spring Boot.CupshufflerApplication" />
       <item itemvalue="Spring Boot.TricksterApplication" />
       <item itemvalue="Spring Boot.DoctorhousediagnosesApplication" />
+      <item itemvalue="Spring Boot.ShopApplication" />
+      <item itemvalue="Spring Boot.TodosApplication" />
       <item itemvalue="Spring Boot.MarathonApplication" />
+      <item itemvalue="Spring Boot.BedsApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -415,7 +549,11 @@
       <workItem from="1553084102965" duration="288000" />
       <workItem from="1553084409860" duration="327000" />
       <workItem from="1553084755769" duration="7624000" />
-      <workItem from="1553271894931" duration="2508000" />
+      <workItem from="1553271894931" duration="2806000" />
+      <workItem from="1553509540507" duration="1057000" />
+      <workItem from="1553519678812" duration="2796000" />
+      <workItem from="1553806801163" duration="10083000" />
+      <workItem from="1553821818978" duration="8136000" />
     </task>
     <servers />
   </component>
@@ -452,13 +590,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47285000" />
+    <option name="totallyTimeSpent" value="69655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1002" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1002" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23745997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24813233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -481,7 +618,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.32699168" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.32580262" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -492,276 +629,16 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32977587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IdeaProjects$MypersonaltodolistApplication.ic" NAME="MypersonaltodolistApplication Coverage Results" MODIFIED="1553807579912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/filmevening/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/FilmeveningApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/persistance/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/Judge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/test/java/at/nacs/refliction/filmevening/controller/HandshakesTransformerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/MorseEndpoint.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/client/model/Morse.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/client/model/Encoder.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/EncoderEndpoint.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/server/controller/MorseEncoder.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/EncoderEndpoint.java" />
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/Encoder.java" />
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="768" selection-start-line="768" selection-end-line="768" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/test/java/at/nacs/refliction/filmevening/ShopAssistantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/test/java/at/nacs/morseencoder/MorseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/test/java/at/nacs/marathon/MarathonApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/test/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/persistance/RunnerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/controller/RunnerEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addmission/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/model/HandshakesLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/server/controller/WinnerEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/HandshakesTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addmission/src/main/java/at/nacs/doctorhouse/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/controller/MovieCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week4/src/main/java/at/nacs/marathon/MarathonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filmevening/src/main/java/at/nacs/refliction/filmevening/model/Handshake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/Morse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseencoderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflectionweek4/src/main/java/at/nacs/morseencoder/MorseEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addmission/src/main/java/at/nacs/doctorhouse/AdmissionEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cupshuffler/src/main/java/at/nacs/cupshuffler/trickster/Trickster.java" />
-    <entry file="file://$PROJECT_DIR$/cupshuffler/src/main/java/at/nacs/cupshuffler/cup/Cup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cupshuffler/src/main/java/at/nacs/cupshuffler/cup/CupEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trickster/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -769,51 +646,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java">
+    <entry file="file://$PROJECT_DIR$/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorHouse.java" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorhousediagnosesApplication.java" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/Patient.java" />
+    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java" />
+    <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/Trickster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorhousediagnosesApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/Patient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#452#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/TricksterEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#321#0" expanded="true" />
@@ -828,19 +680,330 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java">
+    <entry file="file://$PROJECT_DIR$/personaltodolist/target/classes/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="90">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trickster/src/main/java/at/nacs/trickster/Trickster.java">
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/mypersonaltodolist/Todo.java" />
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/mypersonaltodolist/MypersonaltodolistApplication.java" />
+    <entry file="file://$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ItemConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ItemRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#0#452#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/src/main/java/at/nacs/shop/ShopRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/TodosApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/CrosConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todos-ui/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todos-ui/css/app.0fc6518c.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todos-ui/js/app.8634f98d.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDosEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/TodosRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/java/at/nacs/todos/ToDosManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personaltodolist/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/BedsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/BedsEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/BedsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/PatientRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/DoctorhouseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorhousediagnosesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DoctorHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/SymptomsLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/DiagnosesEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/java/at/nacs/doctorhousediagnoses/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/AdmissionEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/addmission/src/main/java/at/nacs/doctorhouse/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/TreatmentLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/diagnoses/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5reflection/beds/src/main/java/nacs/at/beds/Nurse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -848,9 +1011,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mypersonaltodolist</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

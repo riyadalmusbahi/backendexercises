@@ -1,6 +1,5 @@
-package at.nacs.doctorhousediagnoses.controller;
+package at.nacs.doctorhousediagnoses;
 
-import at.nacs.doctorhousediagnoses.presistance.Patient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;

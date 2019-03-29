@@ -1,0 +1,12 @@
+server:
+  port: 9003
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/Beds
+
+treatments:
+  nurseIndex:
+    you Have To Be Bit less Awesome: vitamin would help
+    okay What Else: what do you mean.. just sleep!

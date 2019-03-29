@@ -1,4 +1,4 @@
-package at.nacs.doctorhouse.configuration;
+package at.nacs.doctorhouse;
 
 
 import org.springframework.context.annotation.Bean;

@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="beds" />
         <module name="filmevening" />
-        <module name="week5ex1" />
         <module name="ex7" />
+        <module name="week5ex1" />
+        <module name="todos" />
         <module name="cupshuffler" />
+        <module name="shop" />
         <module name="doctorhouse" />
         <module name="exercise6pt2" />
         <module name="trickster" />
@@ -19,6 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="beds" target="11" />
       <module name="cupshuffler" target="11" />
       <module name="doctorhouse" target="11" />
       <module name="doctorhousediagnoses" target="11" />
@@ -27,12 +31,16 @@
       <module name="filmevening" target="11" />
       <module name="marathon" target="11" />
       <module name="morseencoder" target="11" />
+      <module name="mypersonaltodolist" target="11" />
+      <module name="shop" target="11" />
+      <module name="todos" target="11" />
       <module name="trickster" target="11" />
       <module name="week5ex1" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="beds" options="-parameters" />
       <module name="cupshuffler" options="-parameters" />
       <module name="doctorhouse" options="-parameters" />
       <module name="doctorhousediagnoses" options="-parameters" />
@@ -41,6 +49,9 @@
       <module name="filmevening" options="-parameters" />
       <module name="marathon" options="-parameters" />
       <module name="morseencoder" options="-parameters" />
+      <module name="mypersonaltodolist" options="-parameters" />
+      <module name="shop" options="-parameters" />
+      <module name="todos" options="-parameters" />
       <module name="trickster" options="-parameters" />
       <module name="week5ex1" options="-parameters" />
     </option>
