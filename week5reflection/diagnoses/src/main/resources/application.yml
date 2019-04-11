@@ -2,5 +2,5 @@ server:
   port: 9002
 diseases:
   diagnosesIndex:
-    awesomeness: you Have To Be Bit less Awesome
-    dizziness: okay What Else
+    awesomeness: "you Have To Be Bit less Awesome"
+    dizziness: "okay What Else"
